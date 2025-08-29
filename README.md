@@ -294,7 +294,7 @@ php -f test_email.php
 
 **📄 Lisensi**
 
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](http://127.0.0.1:51666/c/LICENSE) untuk detail lengkapnya.
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE] untuk detail lengkapnya.
 
 **📞 Support**
 
@@ -302,4 +302,4 @@ Untuk pertanyaan dan dukungan:
 
 - **Email**: [sucipto@unmuhpnk.ac.id](mailto:sucipto@unmuhpnk.ac.id)
 - **Issues**: [GitHub Issues](https://github.com/ciptomx/sitama)
-- **Documentation**: [Wiki](https://github.com/ciptomx/sitama/readme.md)
+- **Documentation**: [Wiki](https://github.com/ciptomx/sitama/blob/main/README.md)
