@@ -1,0 +1,121 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1000
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(Systematic Literature Review Report) Tj
+0 -20 Td
+(Generated on: 2025-08-25 08:58:28) Tj
+0 -20 Td
+(1. IDENTIFIKASI PENELITIAN) Tj
+0 -20 Td
+(Topik Penelitian: Implementasi Machine Learning dalam Deteksi Penyakit Kardiovaskular) Tj
+0 -20 Td
+(Pertanyaan Penelitian: Bagaimana efektivitas algoritma machine learning dalam mendeteksi penyakit kardiovaskular berdasarkan data medis?) Tj
+0 -20 Td
+(Kriteria Inklusi: Artikel yang membahas implementasi machine learning untuk deteksi penyakit kardiovaskular, diterbitkan dalam 5 tahun terakhir, menggunakan dataset medis yang valid, dan memiliki evaluasi performa yang jelas.) Tj
+0 -20 Td
+(Kriteria Eksklusi: Artikel review tanpa implementasi praktis, studi yang tidak menggunakan machine learning, artikel yang tidak fokus pada penyakit kardiovaskular, dan studi dengan sample size yang terlalu kecil (<100).) Tj
+0 -20 Td
+(Kata Kunci: machine learning, cardiovascular disease, heart disease detection, medical diagnosis, AI healthcare, cardiac imaging, ECG analysis, medical data mining) Tj
+0 -20 Td
+(2. SCREENING & SELECTION) Tj
+0 -20 Td
+(Hasil Pencarian Awal: 1250 artikel) Tj
+0 -20 Td
+(Setelah Penghapusan Duplikat: 980 artikel) Tj
+0 -20 Td
+(Setelah Screening Judul & Abstrak: 450 artikel) Tj
+0 -20 Td
+(Setelah Screening Full Text: 180 artikel) Tj
+0 -20 Td
+(3. QUALITY ASSESSMENT) Tj
+0 -20 Td
+(Kriteria Penilaian: 1. Metodologi penelitian yang jelas (0-3), 2. Kualitas dataset (0-3), 3. Evaluasi performa yang komprehensif (0-2), 4. Validasi hasil (0-2). Total skor maksimal: 10) Tj
+0 -20 Td
+(Kualitas Tinggi (≥8): 45 artikel) Tj
+0 -20 Td
+(Kualitas Sedang (5-7): 98 artikel) Tj
+0 -20 Td
+(Kualitas Rendah (<5): 37 artikel) Tj
+0 -20 Td
+(4. DATA EXTRACTION) Tj
+0 -20 Td
+(Field yang Diekstrak: Judul, Penulis, Tahun, Metodologi ML, Dataset, Metrik Evaluasi, Hasil Utama, Keterbatasan, Kesimpulan, Gap Penelitian) Tj
+0 -20 Td
+(5. PRISMA FLOWCHART) Tj
+0 -20 Td
+(Identifikasi: 1250 records) Tj
+0 -20 Td
+(Database: 980 records) Tj
+0 -20 Td
+(Screening: 450 records) Tj
+0 -20 Td
+(Eligibility: 180 records) Tj
+0 -20 Td
+(6. GAP ANALYSIS) Tj
+0 -20 Td
+(Gap 1: Methodological Gap - Kurangnya standarisasi dalam preprocessing data medis yang dapat mempengaruhi konsistensi hasil antar studi) Tj
+0 -20 Td
+(Gap 2: Knowledge Gap - Terbatasnya penelitian yang membandingkan performa berbagai algoritma ML pada dataset yang sama) Tj
+0 -20 Td
+(Gap 3: Practical Gap - Implementasi ML dalam setting klinis masih terbatas karena masalah interpretabilitas dan regulasi) Tj
+0 -20 Td
+(Gap 4: Theoretical Gap - Kurangnya framework teoritis untuk mengintegrasikan domain knowledge medis dengan algoritma ML) Tj
+0 -20 Td
+(Gap 5: Methodological Gap - Validasi eksternal pada populasi yang berbeda masih jarang dilakukan) Tj
+0 -20 Td
+(7. RINGKASAN & KESIMPULAN) Tj
+0 -20 Td
+(Ringkasan SLR: Systematic Literature Review ini mengidentifikasi 180 studi yang relevan tentang implementasi machine learning dalam deteksi penyakit kardiovaskular. Mayoritas studi menggunakan dataset ECG dan cardiac imaging dengan algoritma deep learning yang menunjukkan performa superior. Namun, terdapat variasi dalam metodologi evaluasi dan validasi yang mempengaruhi generalisabilitas hasil.) Tj
+0 -20 Td
+(Kesimpulan: Machine learning menunjukkan potensi besar dalam deteksi penyakit kardiovaskular dengan akurasi yang tinggi. Namun, diperlukan standarisasi metodologi, validasi eksternal yang lebih komprehensif, dan integrasi yang lebih baik dengan praktik klinis untuk implementasi yang efektif.) Tj
+0 -20 Td
+(Pekerjaan Masa Depan: Penelitian masa depan sebaiknya fokus pada: 1) Pengembangan framework standar untuk evaluasi algoritma ML dalam domain medis, 2) Studi komparatif antar algoritma pada dataset yang sama, 3) Validasi eksternal pada populasi yang beragam, 4) Integrasi domain knowledge medis dalam desain algoritma, 5) Studi implementasi klinis dengan fokus pada interpretabilitas dan regulasi.) Tj
+ET
+endstream
+endobj
+
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000204 00000 n 
+trailer
+<<
+/Size 5
+/Root 1 0 R
+>>
+startxref
+3000
+%%EOF
