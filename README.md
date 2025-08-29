@@ -53,17 +53,17 @@ Sistem Manajemen Tugas Akhir adalah aplikasi web berbasis PHP dan MySQL yang dir
 
 **1\. Clone atau Download Repository**
 
-git clone <https://github.com/username/sistem-ta-management.git>
+git clone <https://github.com/ciptomx/sitama>
 
-cd sistem-ta-management
+cd sitama
 
 **2\. Setup Database**
 
 mysql -u root -p
 
-CREATE DATABASE ta_management;
+CREATE DATABASE sitama;
 
-USE ta_management;
+USE sitama;
 
 SOURCE database/ta_management.sql;
 
@@ -73,13 +73,13 @@ Edit file includes/config.php:
 
 define('DB_HOST', 'localhost');
 
-define('DB_NAME', 'ta_management');
+define('DB_NAME', 'sita.a');
 
 define('DB_USER', 'username_database');
 
 define('DB_PASS', 'password_database');
 
-define('BASE_URL', '<http://localhost/sistem-ta-management>');
+define('BASE_URL', '<http://localhost/sitama>');
 
 **4\. Setup Folder Uploads**
 
@@ -91,7 +91,7 @@ chmod 755 assets/uploads
 
 Akses aplikasi melalui browser:
 
-<http://localhost/sistem-ta-management>
+<http://localhost/sitama>
 
 **🗃 Struktur Database**
 
@@ -189,7 +189,7 @@ $to = $email;
 
 $subject = "Notifikasi Ujian Tugas Akhir";
 
-$headers = "From: <no-reply@university.ac.id>\\r\\n";
+$headers = "From: <no-reply@unmuhpnk.ac.id>\\r\\n";
 
 $headers .= "Content-Type: text/html; charset=UTF-8\\r\\n";
 
@@ -300,24 +300,6 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](http://127.0
 
 Untuk pertanyaan dan dukungan:
 
-- **Email**: [support@university.ac.id](mailto:support@university.ac.id)
-- **Issues**: [GitHub Issues](https://github.com/username/sistem-ta-management/issues)
-- **Documentation**: [Wiki](https://github.com/username/sistem-ta-management/wiki)
-
-**🔄 Changelog**
-
-**v1.0.0 (2024-01-01)**
-
-- Rilis awal sistem manajemen tugas akhir
-- Fitur dasar untuk admin, dosen, dan mahasiswa
-- Sistem authentication dan authorization
-- Manajemen pengajuan, bimbingan, dan ujian
-
-**v1.1.0 (2024-02-01)**
-
-- Penambahan fitur logging system
-- Notifikasi email untuk kelulusan
-- Peningkatan keamanan session
-- Optimasi performa database
-
-**Catatan**: Dokumentasi ini akan terus diperbarui sesuai dengan perkembangan sistem. Pastikan untuk selalu memeriksa versi terbaru dari dokumentasi ini.
+- **Email**: [sucipto@unmuhpnk.ac.id](mailto:sucipto@unmuhpnk.ac.id)
+- **Issues**: [GitHub Issues](https://github.com/ciptomx/sitama)
+- **Documentation**: [Wiki](https://github.com/ciptomx/sitama/readme.md)
