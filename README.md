@@ -2,7 +2,7 @@
 
 **📖 Daftar Isi**
 
-1. [Overview](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-overview)
+1. [Overview](#-overview)
 2. [Fitur](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-fitur)
 3. [Persyaratan Sistem](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-persyaratan-sistem)
 4. [Instalasi](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-instalasi)
