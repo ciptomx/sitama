@@ -1,4 +1,4 @@
-# **Dokumentasi Sistem Manajemen Tugas Akhir**
+# **Dokumentasi Sistem Tugas Akhir Mahasiswa**
 
 **📖 Daftar Isi**
 
