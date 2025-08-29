@@ -1,18 +1,5 @@
 # **Dokumentasi Sistem Tugas Akhir Mahasiswa**
 
-**📖 Daftar Isi**
-
-1. [Overview](#-overview)
-2. [Fitur](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-fitur)
-3. [Persyaratan Sistem](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-persyaratan-sistem)
-4. [Instalasi](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-instalasi)
-5. [Struktur Database](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-struktur-database)
-6. [Penggunaan](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-penggunaan)
-7. [Konfigurasi](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-konfigurasi)
-8. [Troubleshooting](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-troubleshooting)
-9. [Kontribusi](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-kontribusi)
-10. [Lisensi](http://127.0.0.1:51666/c/0198f492-8417-7a21-8b1e-211bce4989d4#-lisensi)
-
 **🎯 Overview**
 
 Sistem Manajemen Tugas Akhir adalah aplikasi web berbasis PHP dan MySQL yang dirancang untuk mengelola proses tugas akhir mahasiswa secara terintegrasi. Sistem ini mendukung tiga peran pengguna: **Admin**, **Dosen**, dan **Mahasiswa** dengan fitur dan akses yang berbeda sesuai kebutuhan.
